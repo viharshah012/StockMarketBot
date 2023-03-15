@@ -1,0 +1,28 @@
+#container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 18px;
+    width: 60%;
+    margin-bottom: 20px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #response {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+  }
+  
